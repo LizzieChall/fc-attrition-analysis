@@ -2,9 +2,9 @@
 
 **Externship Consulting Project | People Analytics**
 
-**Tools:** Python · Google Colab · NLTK / VADER · matplotlib · D3.js · Google Sheets
-**Skills:** Sentiment Analysis · EDA · Data Wrangling · Data Cleaning · Data Visualization · Friction Mapping · Root Cause Analysis (5 Whys) · Qualitative Analysis · Stakeholder Communication
-**Domain:** People Analytics · HR Analytics · Operations · Workforce Management
+**Tools:** Python · Google Colab · NLTK / VADER · matplotlib · D3.js · Google Sheets  
+**Skills:** Sentiment Analysis · EDA · Data Wrangling · Data Cleaning · Data Visualization · Friction Mapping · Root Cause Analysis (5 Whys) · Qualitative Analysis · Stakeholder Communication  
+**Domain:** People Analytics · HR Analytics · Operations · Workforce Management  
 
 📊 **[View Final Deliverable (Slide Deck)](https://docs.google.com/presentation/d/1-1ecYq59lvhJjKEMHFkc4Mgzn_z6vAan/edit?usp=sharing&ouid=103566723536051526493&rtpof=true&sd=true)**
 
