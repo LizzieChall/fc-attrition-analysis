@@ -128,7 +128,7 @@ Begin with Pickers and Stowers only, within a single pick-tower zone. Packers oc
 | Source | Records | Type |
 |---|---|---|
 | Glassdoor reviews | 139 | Public employee reviews |
-| YouTube transcripts | 6 | "Day in the life" FC associate videos |
+| YouTube transcripts | 6 | "Day in the life" associate videos |
 | **Total** | **145** | Combined, tagged across 6 themes |
 
 *All data sourced from publicly available platforms. No internal company data was used. All identifying information has been anonymized.*
