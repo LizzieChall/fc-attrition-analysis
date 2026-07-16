@@ -1,0 +1,49 @@
+<svg width="720" height="380" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#aaaaaa"/>
+    </marker>
+    <marker id="arrowred" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#e74c3c"/>
+    </marker>
+  </defs>
+  <rect width="720" height="380" fill="#ffffff" rx="8"/>
+  <text x="360" y="30" text-anchor="middle" font-size="15" font-weight="bold" fill="#1a1a2e">Experience Friction Map — New Pickers, Stowers &amp; Packers</text>
+  <text x="360" y="50" text-anchor="middle" font-size="11" fill="#666666">First 60 days · Three compounding friction points leading to early attrition</text>
+  <rect x="20" y="155" width="110" height="50" fill="#2980b9" rx="6"/>
+  <text x="75" y="176" text-anchor="middle" font-size="11" font-weight="bold" fill="#ffffff">Hire &amp;</text>
+  <text x="75" y="192" text-anchor="middle" font-size="11" font-weight="bold" fill="#ffffff">Orientation</text>
+  <line x1="130" y1="180" x2="158" y2="180" stroke="#aaaaaa" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="160" y="140" width="140" height="80" fill="#e74c3c" rx="6"/>
+  <text x="230" y="163" text-anchor="middle" font-size="10" font-weight="bold" fill="#ffffff">FRICTION 1</text>
+  <text x="230" y="178" text-anchor="middle" font-size="10" fill="#ffffff">Physical</text>
+  <text x="230" y="192" text-anchor="middle" font-size="10" fill="#ffffff">Conditioning Gap</text>
+  <text x="230" y="208" text-anchor="middle" font-size="9" fill="#ffcccc">No ramp before full-rate</text>
+  <rect x="168" y="112" width="124" height="22" fill="#fdecea" rx="4"/>
+  <text x="230" y="127" text-anchor="middle" font-size="10" fill="#c0392b" font-weight="bold">39% mention rate</text>
+  <line x1="230" y1="134" x2="230" y2="140" stroke="#e74c3c" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <line x1="300" y1="180" x2="328" y2="180" stroke="#aaaaaa" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="330" y="140" width="140" height="80" fill="#e74c3c" rx="6"/>
+  <text x="400" y="163" text-anchor="middle" font-size="10" font-weight="bold" fill="#ffffff">FRICTION 2</text>
+  <text x="400" y="178" text-anchor="middle" font-size="10" fill="#ffffff">Tenure-Blind</text>
+  <text x="400" y="192" text-anchor="middle" font-size="10" fill="#ffffff">Scheduling</text>
+  <text x="400" y="208" text-anchor="middle" font-size="9" fill="#ffcccc">Week 1 = Year 1 expectation</text>
+  <rect x="336" y="112" width="128" height="22" fill="#fdecea" rx="4"/>
+  <text x="400" y="127" text-anchor="middle" font-size="10" fill="#c0392b" font-weight="bold">43% rate pressure &lt;1yr</text>
+  <line x1="400" y1="134" x2="400" y2="140" stroke="#e74c3c" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <line x1="470" y1="180" x2="498" y2="180" stroke="#aaaaaa" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="500" y="140" width="140" height="80" fill="#e74c3c" rx="6"/>
+  <text x="570" y="163" text-anchor="middle" font-size="10" font-weight="bold" fill="#ffffff">FRICTION 3</text>
+  <text x="570" y="178" text-anchor="middle" font-size="10" fill="#ffffff">Metric</text>
+  <text x="570" y="192" text-anchor="middle" font-size="10" fill="#ffffff">Invisibility</text>
+  <text x="570" y="208" text-anchor="middle" font-size="9" fill="#ffcccc">Attrition cost not tracked</text>
+  <rect x="510" y="112" width="120" height="22" fill="#fdecea" rx="4"/>
+  <text x="570" y="127" text-anchor="middle" font-size="10" fill="#c0392b" font-weight="bold">No retention KPI</text>
+  <line x1="570" y1="134" x2="570" y2="140" stroke="#e74c3c" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <line x1="400" y1="220" x2="400" y2="258" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowred)"/>
+  <rect x="290" y="260" width="220" height="50" fill="#7f8c8d" rx="6"/>
+  <text x="400" y="282" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">Early Attrition</text>
+  <text x="400" y="298" text-anchor="middle" font-size="10" fill="#dddddd">Within first 60 days</text>
+  <text x="360" y="345" text-anchor="middle" font-size="10" fill="#888888">75% of all friction mentions occur at ≤ 2 years tenure (86 of 114 total mentions)</text>
+  <text x="360" y="360" text-anchor="middle" font-size="9" fill="#aaaaaa">Survivorship bias note: first-60-day leavers rarely write reviews — early Physical Toll is structurally undercounted in Glassdoor data</text>
+</svg>
