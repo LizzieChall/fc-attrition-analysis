@@ -1,6 +1,6 @@
 # Early Associate Attrition Analysis — Fulfillment Center People Analytics
 
-**Externship Consulting Project | People Analytics**
+**Consulting Project | People Analytics**
 
 **Tools:** Python · Google Colab · NLTK / VADER · matplotlib · D3.js · Google Sheets  
 **Skills:** Sentiment Analysis · EDA · Data Wrangling · Data Cleaning · Data Visualization · Friction Mapping · Root Cause Analysis (5 Whys) · Qualitative Analysis · Stakeholder Communication  
@@ -135,4 +135,4 @@ Begin with Pickers and Stowers only, within a single pick-tower zone. Packers oc
 
 ---
 
-*People Analytics Externship | Consulting Track*
+*People Analytics | Consulting Track*
